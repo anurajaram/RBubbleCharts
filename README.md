@@ -10,4 +10,6 @@ Create bubble charts showing crime rates per district. Dataset is from the Kaggl
 <h3>surfaceplots.R : </h3>
 3D plots of geometric functions and other objects.
 
-
+<h3>explore_new.R : </h3>
+Interactive map showing information with admission rate and average faculty salaries (monthly) for US colleges.<br />
+Related picture = college_map
