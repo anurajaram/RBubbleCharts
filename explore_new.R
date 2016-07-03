@@ -1,5 +1,5 @@
 # author - Anupama Rajaram 
-# modified using script from Kaggle forum, by Tom Dallas.
+# modified and extended using base script from Kaggle forum, provided by Tom Dallas.
 
 
 # To clean up the memory of your current R session run the following line
