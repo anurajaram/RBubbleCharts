@@ -13,5 +13,5 @@ Create bubble charts showing crime rates per district. Dataset is from the Kaggl
 <h3>explore_new.R : </h3>
 Interactive map showing information with admission rate and average faculty salaries (monthly) for US colleges.<br />
 Related picture = college_map<br />
-Dataset = Scorecard.csv, originally added on Kaggle. 
+Dataset = Scorecard.csv, originally added on Kaggle. Document available as zip file at link : https://drive.google.com/open?id=0By51fg0p1odYRHB3ZjlsNG1PeDA
 
